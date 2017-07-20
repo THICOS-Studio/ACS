@@ -44,14 +44,13 @@ namespace ACS_Lexer
             while (ReadLine()) ;
             queue.Add(Token.EOF);
 
-            Console.WriteLine(queue.Count);
+            //Console.WriteLine(queue.Count);
+            
             for(int i = 0; i < queue.Count; i++)
             {
                 if (queue[i] != null)
                     Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " +queue[i].seq+ "  [LineNumber]>>     " + queue[i].GetLineNumber());
             }
-            Console.Read();
-
             return queue;
         }
 
