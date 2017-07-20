@@ -15,7 +15,7 @@ namespace ACS_Analyzer.ACS_Parser
         public BinaryExper Left, Right;
         public string value="";
 
-        public BinaryExper( string v="", BinaryExper l=null, BinaryExper r=null)
+        public BinaryExper(string v = "", BinaryExper l = null, BinaryExper r = null)
         {
             Left = l;
             Right = r;

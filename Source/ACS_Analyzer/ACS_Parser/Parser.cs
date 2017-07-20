@@ -14,15 +14,15 @@ namespace ACS_Analyzer.ACS_Parser
         public Parser(List<Token> _q)
         {
             q = _q;
-            if((q[0].type.ToString())== "Number")
+            if((q[0].type.ToString())== "Identifier")
             {
-                Console.WriteLine("hi");
-                BinaryExper b = new BinaryExper("", new BinaryExper(q[0].GetValue(), new BinaryExper(q[2].GetValue())));
-                b.Operator = q[1].GetValue();
+                BinaryExper b = new BinaryExper("", new BinaryExper(q[0].GetValue(), new BinaryExper(q[2].GetValue())))
+                {
+                    Operator = q[1].GetValue()
+                };
                 Console.WriteLine(b.Operator);
                 b.Calculate();
                 Console.WriteLine(b.value);
-                Console.Read();
             }
             else
             {
