@@ -39,6 +39,7 @@ namespace ACS_Lexer
         public static FileStream file_stream;
         public static StreamReader stream_reader;
         private static MatchCollection matches;
+        private static int line_number;
         static List<Token> queue = new List<Token>();
         public static void _Main()
         {
@@ -46,45 +47,54 @@ namespace ACS_Lexer
             file_stream = new FileStream(Environment.CurrentDirectory + "/Example.acs", FileMode.Open);
             stream_reader = new StreamReader(file_stream);
 
-            matches = Regex.Matches(program, regex_pat);
-            
-            foreach (Match item in matches)
-            {
-                AddToken(item.Value);
-            }
+            while (ReadLine()) ;
+            queue.Add(Token.EOF);
 
             Console.WriteLine(queue.Count);
             for(int i = 0; i < queue.Count; i++)
             {
-                Console.WriteLine("["+queue[i].type+"]>>     "+queue[i].GetValue());
+                if (queue[i] != null)
+                    Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " + "[LineNumber]>>     " + queue[i].GetLineNumber());
             }
             Console.Read();
-            
         }
 
-        
-        protected static void AddToken(string s)
+        protected static bool ReadLine()
+        {
+            line_number++;
+            if (stream_reader.EndOfStream) return false;
+            program = stream_reader.ReadLine();
+            matches = Regex.Matches(program, regex_pat);
+
+            foreach (Match item in matches)
+            {
+                AddToken(line_number, item.Value);
+            }
+            return true;
+        }
+
+        protected static void AddToken(int line, string s)
         {
             Token token;
             if (InGroup(1, s) || InGroup(2, s)) return;
             if (InGroup(3, s))
             {
-                token = new FloatToken(float.Parse(s));
+                token = new FloatToken(line, float.Parse(s));
                 queue.Add(token);
             }
             else if (InGroup(4, s))
             {
-                token = new StringToken(s);
+                token = new StringToken(line, s);
                 queue.Add(token);
             }
             else if (InGroup(5, s))
             {
-                token = new IdentifierToken(s);
+                token = new IdentifierToken(line, s);
                 queue.Add(token);
             }
             else if (InGroup(6, s))
             {
-                token = new NumberToken(int.Parse(s));
+                token = new NumberToken(line, int.Parse(s));
                 queue.Add(token);
             }
             else

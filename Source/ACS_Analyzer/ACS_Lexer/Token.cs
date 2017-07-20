@@ -19,11 +19,20 @@ namespace ACS_Lexer
         public static readonly Token EOF = null;
         public static string EOL = "\\n";
         public Types type;
+        public int line_number;
 
         public string text;
         public int int_value;
         public float float_value;
 
+        public Token(int line)
+        {
+            line_number = line;
+        }
+        public int GetLineNumber()
+        {
+            return line_number;
+        }
         public virtual int GetNumber()
         {
             throw new Exception("not number token");
@@ -69,7 +78,7 @@ namespace ACS_Lexer
     class IdentifierToken : Token
     {
 
-        public IdentifierToken(string id)
+        public IdentifierToken(int line, string id) : base(line)
         {
             type = Types.Identifier;
             text = id;
@@ -82,7 +91,7 @@ namespace ACS_Lexer
     class NumberToken : Token
     {
 
-        public NumberToken(int v)
+        public NumberToken(int line, int v) : base(line)
         {
             type = Types.Number;
             int_value = v;
@@ -95,7 +104,7 @@ namespace ACS_Lexer
     class StringToken : Token
     {
 
-        public StringToken(string str)
+        public StringToken(int line, string str) : base(line)
         {
             type = Types.String;
             text = str;
@@ -107,7 +116,7 @@ namespace ACS_Lexer
     }
     class FloatToken : Token
     {
-        public FloatToken(float v)
+        public FloatToken(int line, float v) : base(line)
         {
             type = Types.Float;
             float_value = v;
