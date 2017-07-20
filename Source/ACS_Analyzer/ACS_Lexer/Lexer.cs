@@ -18,9 +18,22 @@ namespace ACS_Lexer
         public static string regex_pat5 = "([A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])";
         public static string regex_pat6 = "([0-9]+)";
 
-        public static string regex_pat = "((//.*)|([0-9]+[.][0-9]+)|([0-9]+)|(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")" + 
+        public static string[] regex_pats =
+        {
+            "",
+            "\\s*",
+            "(//.*)",
+            "([0-9]+[.][0-9]+)",
+            "(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")",
+            "([A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])",
+            "([0-9]+)"
+        };
+
+
+        public static string regex_pat =
+            "((//.*)|([0-9]+[.][0-9]+)|([0-9]+)|(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")" + 
             "|[A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])?";
-        //|\\p{Punct} \\s* (//.*)|
+
         public static string program = File.ReadAllText(Environment.CurrentDirectory + "/Example.acs");
 
         public static FileStream file_stream;
