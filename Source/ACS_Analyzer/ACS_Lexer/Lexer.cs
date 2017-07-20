@@ -130,9 +130,7 @@ namespace ACS_Lexer
         static bool InGroup(int i, string s)
         {
             if (Regex.Match(s, regex_pats[i]).Value == s) return true;
-            else  return false;
+            return false;
         }
     }
-
-   
 }
