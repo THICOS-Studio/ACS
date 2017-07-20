@@ -10,16 +10,10 @@ namespace ACS_Lexer
 {
     class Lexer
     {
-        //按照这个顺序进行判断
-        public static string regex_pat1 = "\\s*";
-        public static string regex_pat2 = "(//.*)";
-        public static string regex_pat3 = "([0-9]+[.][0-9]+)";
-        public static string regex_pat4 = "(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")";
-        public static string regex_pat5 = "([A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])";
-        public static string regex_pat6 = "([0-9]+)";
-
+       
         public static string[] regex_pats =
         {
+             //按照这个顺序进行判断
             "",
             "\\s*",
             "(//.*)",
@@ -28,7 +22,6 @@ namespace ACS_Lexer
             "([A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])",
             "([0-9]+)"
         };
-
 
         public static string regex_pat =
             "((//.*)|([0-9]+[.][0-9]+)|([0-9]+)|(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")" + 
@@ -136,40 +129,8 @@ namespace ACS_Lexer
         /// </summary>
         static bool InGroup(int i, string s)
         {
-            switch (i)
-            {
-                case 1:
-                    {
-                        if (Regex.Match(s, regex_pat1).Value == s) return true;
-                        break;
-                    }
-                case 2:
-                    {
-                        if (Regex.Match(s, regex_pat2).Value == s) return true;
-                        break;
-                    }
-                case 3:
-                    {
-                        if (Regex.Match(s, regex_pat3).Value == s) return true;
-                        break;
-                    }
-                case 4:
-                    {
-                        if (Regex.Match(s, regex_pat4).Value == s) return true;
-                        break;
-                    }
-                case 5:
-                    {
-                        if (Regex.Match(s, regex_pat5).Value == s) return true;
-                        break;
-                    }
-                case 6:
-                    {
-                        if (Regex.Match(s, regex_pat6).Value == s) return true;
-                        break;
-                    }
-            }
-            return false;
+            if (Regex.Match(s, regex_pats[i]).Value == s) return true;
+            else  return false;
         }
     }
 
