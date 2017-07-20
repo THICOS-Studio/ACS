@@ -19,16 +19,17 @@ namespace ACS_Lexer
         public static readonly Token EOF = null;
         public static string EOL = "\\n";
         public Types type;
+        
 
-        public int GetNumber()
+        public virtual int GetNumber()
         {
             throw new Exception("not number token");
         }
-        public float GetFloat()
+        public virtual float GetFloat()
         {
             throw new Exception("not float token");
         }
-        public string GetText()
+        public virtual string GetText()
         {
             return "";
         }

@@ -11,3 +11,4 @@ E:\Programing\Github\ACS\Source\ACS_Analyzer\obj\Debug\ACS_Analyzer.csprojResolv
 E:\Programing\Github\ACS\Source\ACS_Analyzer\obj\Debug\ACS_Analyzer.exe
 E:\Programing\Github\ACS\Source\ACS_Analyzer\obj\Debug\ACS_Analyzer.pdb
 E:\Programing\Github\ACS\Source\ACS_Analyzer\bin\Debug\Example.acs
+G:\GIT\ACS\Source\ACS_Analyzer\bin\Debug\Example.acs

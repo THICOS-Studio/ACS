@@ -23,18 +23,11 @@ namespace ACS_Lexer
         //|\\p{Punct} \\s* (//.*)|
         public static string program = File.ReadAllText(Environment.CurrentDirectory + "/Example.acs");
 
-        static FileStream file_stream;
-        static StreamReader file_reader;
         private static MatchCollection matches;
         static List<Token> queue = new List<Token>();
         public static void _Main()
         {
             //后面变成从外
-            file_stream = new FileStream("example.acs", FileMode.Open);
-            file_reader = new StreamReader(file_stream);
-            program = file_reader.ReadToEnd();
-            file_reader.Close();
-            file_stream.Close();
             matches = Regex.Matches(program, regex_pat);
             
             foreach (Match item in matches)
@@ -45,7 +38,7 @@ namespace ACS_Lexer
             Console.WriteLine(queue.Count);
             for(int i = 0; i < queue.Count; i++)
             {
-                Console.WriteLine(queue[i].type+" "+queue[i].;
+                //Console.WriteLine(queue[i].type+" "+queue[i].;
             }
             Console.Read();
             
@@ -75,6 +68,7 @@ namespace ACS_Lexer
             {
                 token = new NumberToken(int.Parse(s));
                 queue.Add(token);
+                Console.WriteLine(queue[queue.Count - 1].GetNumber());
             }
             else
             {
@@ -109,6 +103,7 @@ namespace ACS_Lexer
             }
             return sb.ToString();
         }
+
         /// <summary>
         /// 判断被获取的字符串是在正则的哪一组匹配的。
         /// c#不自带这个功能还得自己写，还容易出错
@@ -162,7 +157,7 @@ namespace ACS_Lexer
             type = Types.Identifier;
             text = id;
         }
-        new public string GetText()
+        public override string GetText()
         {
             return text;
         }
@@ -176,7 +171,7 @@ namespace ACS_Lexer
             type = Types.Number;
             value = v;
         }
-        new public int GetNumber()
+        public override int GetNumber()
         {
             return value;
         }
@@ -190,7 +185,7 @@ namespace ACS_Lexer
             type = Types.String;
             literal = str;
         }
-        new public string GetText()
+        public override string GetText()
         {
             return literal;
         }
@@ -204,7 +199,7 @@ namespace ACS_Lexer
             type = Types.Float;
             value = v;
         }
-        new public float GetFloat()
+        public override float GetFloat()
         {
             return value;
         }
