@@ -159,7 +159,7 @@ namespace ACS_Lexer
             type = Types.Identifier;
             text = id;
         }
-        new public string GetText()
+        public override string GetText()
         {
             return text;
         }
@@ -172,7 +172,7 @@ namespace ACS_Lexer
             type = Types.Number;
             int_value= v;
         }
-        new public int GetNumber()
+        public override int GetNumber()
         {
             return int_value;
         }
@@ -185,7 +185,7 @@ namespace ACS_Lexer
             type = Types.String;
             text = str;
         }
-        new public string GetText()
+        public override string GetText()
         {
             return text;
         }
@@ -197,7 +197,7 @@ namespace ACS_Lexer
             type = Types.Float;
             float_value = v;
         }
-        new public float GetFloat()
+        public override float GetFloat()
         {
             return float_value;
         }
