@@ -10,6 +10,7 @@ namespace ACS_Analyzer
     {
         static void Main(string[] args)
         {
+            ACS_Lexer.Lexer._Main();          
         }
     }
 }

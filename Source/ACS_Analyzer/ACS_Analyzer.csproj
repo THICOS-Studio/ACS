@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ACS_Lexer\ACS_Lexer.cs" />
+    <Compile Include="ACS_Lexer\Lexer.cs" />
     <Compile Include="ACS_Parser\ASLeaf.cs" />
     <Compile Include="ACS_Parser\ASList.cs" />
     <Compile Include="ACS_Parser\ASTree.cs" />
@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Example.acs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
