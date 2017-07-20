@@ -14,25 +14,35 @@ namespace ACS_Analyzer.BNF_Engine
             List<Token> input = new List<Token>();
             foreach (Token item in _queue)
             {
-                if (item.GetValue() == ";") break;
+                if (item == null) break;
+                if (item.GetValue() == ";")
+                {
+                    input.Add(item);
+                    MatchRules(input);
+                    input = new List<Token>();
+                    continue;
+                }
                 input.Add(item);
             }
-            //只取了一句进行测试
+
+        }
+
+        static void MatchRules(List<Token> _input)
+        {
             Parser parser = new Parser();
-            parser.SetInput(input);
-            
-            parser = parser.rule(Types.Identifier).rule(Types.Operator).rule(Types.Number);
-            Console.WriteLine("yeal");
+            parser.SetInput(_input);
+            parser = parser.rule(Types.Identifier).rule(Types.Operator).rule(Types.Number).rule(";");
+            if (parser.is_matched) Console.WriteLine("yeal");
         }
     }
 
     public class Parser
     {
-        List<Token> queue;
+        public List<Token> queue;
         public List<Token> new_queue = new List<Token>();
         int now_count;
-        Parser parser;
         public ASTree _ASTree;
+        public bool is_matched = true;
 
         public void SetInput(List<Token> _queue)
         {
@@ -41,60 +51,77 @@ namespace ACS_Analyzer.BNF_Engine
 
         public Parser rule(string s)
         {
-            if (queue[now_count].GetValue() == ";")
+            if (!is_matched) return this;
+            if (queue[now_count].GetValue() == ";" && s != ";")
             {
-                return new Parser();
+                is_matched = false;
+                return this;
             }
             if (queue[now_count].GetValue() == s)
             {
                 new_queue.Add(queue[now_count]);
                 now_count++;
+                is_matched = true;
                 return this;
             }
-            return new Parser();
+            is_matched = false;
+            return this;
         }
         public Parser rule(Types t)
         {
+            if (!is_matched) return this;
             if (queue[now_count].GetValue() == ";")
             {
-                return new Parser();
+                is_matched = false;
+                return this;
             }
             if (queue[now_count].GetTokenType() == t)
             {
                 new_queue.Add(queue[now_count]);
                 now_count++;
+                is_matched = true;
                 return this;
             }
-            return new Parser();
+            is_matched = false;
+            return this;
         }
         public Parser or(string s)
         {
+            if (!is_matched) return this;
+            now_count--;
             if (queue[now_count].GetValue() == ";")
             {
-                return new Parser();
+                is_matched = false;
+                return this;
             }
             if (queue[now_count].GetValue() == s)
             {
                 new_queue.Add(queue[now_count]);
                 now_count++;
+                is_matched = true;
                 return this;
             }
-            return new Parser();
+            is_matched = false;
+            return this;
         }
         public Parser or(Types t)
         {
+            if (!is_matched) return this;
             now_count--;
             if (queue[now_count].GetValue() == ";")
             {
-                return new Parser();
+                is_matched = false;
+                return this;
             }
             if (queue[now_count].GetTokenType() == t)
             {
                 new_queue.Add(queue[now_count]);
                 now_count++;
+                is_matched = true;
                 return this;
             }
-            return new Parser();
+            is_matched = false;
+            return this;
         }
     }
 }
