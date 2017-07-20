@@ -23,11 +23,16 @@ namespace ACS_Lexer
         //|\\p{Punct} \\s* (//.*)|
         public static string program = File.ReadAllText(Environment.CurrentDirectory + "/Example.acs");
 
+        public static FileStream file_stream;
+        public static StreamReader stream_reader;
         private static MatchCollection matches;
         static List<Token> queue = new List<Token>();
         public static void _Main()
         {
             //后面变成从外
+            file_stream = new FileStream(Environment.CurrentDirectory + "/Example.acs", FileMode.Open);
+            stream_reader = new StreamReader(file_stream);
+
             matches = Regex.Matches(program, regex_pat);
             
             foreach (Match item in matches)
