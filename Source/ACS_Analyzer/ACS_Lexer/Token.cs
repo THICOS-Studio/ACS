@@ -19,7 +19,10 @@ namespace ACS_Lexer
         public static readonly Token EOF = null;
         public static string EOL = "\\n";
         public Types type;
-        
+
+        public string text;
+        public int int_value;
+        public float float_value;
 
         public virtual int GetNumber()
         {
@@ -36,6 +39,29 @@ namespace ACS_Lexer
         public Types GetTokenType()
         {
             return type;
+        }
+        public string GetValue()
+        {
+            switch (type)
+            {
+                case Types.Float:
+                    {
+                        return float_value.ToString();
+                    }
+                case Types.Identifier:
+                    {
+                        return text;
+                    }
+                case Types.Number:
+                    {
+                        return int_value.ToString();
+                    }
+                case Types.String:
+                    {
+                        return text;
+                    }
+            }
+            return "";
         }
     }
 }
