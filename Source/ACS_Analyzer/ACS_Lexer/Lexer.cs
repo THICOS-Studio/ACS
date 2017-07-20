@@ -23,11 +23,18 @@ namespace ACS_Lexer
         //|\\p{Punct} \\s* (//.*)|
         public static string program = File.ReadAllText(Environment.CurrentDirectory + "/Example.acs");
 
+        static FileStream file_stream;
+        static StreamReader file_reader;
         private static MatchCollection matches;
         static List<Token> queue = new List<Token>();
         public static void _Main()
         {
             //后面变成从外
+            file_stream = new FileStream("example.acs", FileMode.Open);
+            file_reader = new StreamReader(file_stream);
+            program = file_reader.ReadToEnd();
+            file_reader.Close();
+            file_stream.Close();
             matches = Regex.Matches(program, regex_pat);
             
             foreach (Match item in matches)
@@ -38,7 +45,7 @@ namespace ACS_Lexer
             Console.WriteLine(queue.Count);
             for(int i = 0; i < queue.Count; i++)
             {
-                //Console.WriteLine(queue[i].type+" "+queue[i].;
+                Console.WriteLine("["+queue[i].type+"]>>     "+queue[i].GetValue());
             }
             Console.Read();
             
@@ -68,7 +75,6 @@ namespace ACS_Lexer
             {
                 token = new NumberToken(int.Parse(s));
                 queue.Add(token);
-                Console.WriteLine(queue[queue.Count - 1].GetNumber());
             }
             else
             {
@@ -103,7 +109,6 @@ namespace ACS_Lexer
             }
             return sb.ToString();
         }
-
         /// <summary>
         /// 判断被获取的字符串是在正则的哪一组匹配的。
         /// c#不自带这个功能还得自己写，还容易出错
@@ -150,58 +155,53 @@ namespace ACS_Lexer
     #region DefinitionTypes
     class IdentifierToken : Token
     {
-        private string text;
 
         public IdentifierToken(string id)
         {
             type = Types.Identifier;
             text = id;
         }
-        public override string GetText()
+        new public string GetText()
         {
             return text;
         }
     }
     class NumberToken : Token
     {
-        private int value;
 
         public NumberToken(int v)
         {
             type = Types.Number;
-            value = v;
+            int_value= v;
         }
-        public override int GetNumber()
+        new public int GetNumber()
         {
-            return value;
+            return int_value;
         }
     }
     class StringToken : Token
     {
-        private string literal;
-
+   
         public StringToken(string str)
         {
             type = Types.String;
-            literal = str;
+            text = str;
         }
-        public override string GetText()
+        new public string GetText()
         {
-            return literal;
+            return text;
         }
     }
     class FloatToken : Token
     {
-        private float value;
-
         public FloatToken(float v)
         {
             type = Types.Float;
-            value = v;
+            float_value = v;
         }
-        public override float GetFloat()
+        new public float GetFloat()
         {
-            return value;
+            return float_value;
         }
     }
     #endregion
