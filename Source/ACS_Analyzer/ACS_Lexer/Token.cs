@@ -64,4 +64,58 @@ namespace ACS_Lexer
             return "";
         }
     }
+
+    #region DefinitionTypes
+    class IdentifierToken : Token
+    {
+
+        public IdentifierToken(string id)
+        {
+            type = Types.Identifier;
+            text = id;
+        }
+        public override string GetText()
+        {
+            return text;
+        }
+    }
+    class NumberToken : Token
+    {
+
+        public NumberToken(int v)
+        {
+            type = Types.Number;
+            int_value = v;
+        }
+        public override int GetNumber()
+        {
+            return int_value;
+        }
+    }
+    class StringToken : Token
+    {
+
+        public StringToken(string str)
+        {
+            type = Types.String;
+            text = str;
+        }
+        public override string GetText()
+        {
+            return text;
+        }
+    }
+    class FloatToken : Token
+    {
+        public FloatToken(float v)
+        {
+            type = Types.Float;
+            float_value = v;
+        }
+        public override float GetFloat()
+        {
+            return float_value;
+        }
+    }
+    #endregion
 }
