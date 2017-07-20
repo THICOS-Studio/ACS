@@ -19,22 +19,23 @@ namespace ACS_Lexer
             "(//.*)",
             "([0-9]+[.][0-9]+)",
             "(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")",
-            "([A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])",
-            "([0-9]+)"
+            "([A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\|)",//|[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~]
+            "([0-9]+)",
+            "[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~]"
         };
 
         public static string regex_pat =
             "((//.*)|([0-9]+[.][0-9]+)|([0-9]+)|(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")" + 
             "|[A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])?";
 
-        public static string program = File.ReadAllText(Environment.CurrentDirectory + "/Example.acs");
+        public static string program;
 
         public static FileStream file_stream;
         public static StreamReader stream_reader;
         private static MatchCollection matches;
         private static int line_number;
         static List<Token> queue = new List<Token>();
-        public static void _Main()
+        public static List<Token> _Main()
         {
             //后面变成从外
             file_stream = new FileStream(Environment.CurrentDirectory + "/Example.acs", FileMode.Open);
@@ -47,9 +48,11 @@ namespace ACS_Lexer
             for(int i = 0; i < queue.Count; i++)
             {
                 if (queue[i] != null)
-                    Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " + "[LineNumber]>>     " + queue[i].GetLineNumber());
+                    Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " +queue[i].seq+ "  [LineNumber]>>     " + queue[i].GetLineNumber());
             }
             Console.Read();
+
+            return queue;
         }
 
         protected static bool ReadLine()
@@ -61,33 +64,38 @@ namespace ACS_Lexer
 
             foreach (Match item in matches)
             {
-                AddToken(line_number, item.Value);
+                AddToken(line_number,queue.Count, item.Value);
             }
             return true;
         }
 
-        protected static void AddToken(int line, string s)
+        protected static void AddToken(int line,int id, string s)
         {
             Token token;
             if (InGroup(1, s) || InGroup(2, s)) return;
             if (InGroup(3, s))
             {
-                token = new FloatToken(line, float.Parse(s));
+                token = new FloatToken(line,  id, float.Parse(s));
                 queue.Add(token);
             }
             else if (InGroup(4, s))
             {
-                token = new StringToken(line, s);
+                token = new StringToken(line,  id, s);
                 queue.Add(token);
             }
             else if (InGroup(5, s))
             {
-                token = new IdentifierToken(line, s);
+                token = new IdentifierToken(line,  id, s);
                 queue.Add(token);
             }
             else if (InGroup(6, s))
             {
-                token = new NumberToken(line, int.Parse(s));
+                token = new NumberToken(line, id, int.Parse(s));
+                queue.Add(token);
+            }
+            else if (InGroup(7, s))
+            {
+                token = new OperatorToken(line, id, s);
                 queue.Add(token);
             }
             else
@@ -127,11 +135,7 @@ namespace ACS_Lexer
         /// 判断被获取的字符串是在正则的哪一组匹配的。
         /// c#不自带这个功能还得自己写，还容易出错
         /// </summary>
-        static bool InGroup(int i, string s)
-        {
-            if (Regex.Match(s, regex_pats[i]).Value == s) return true;
-            else  return false;
-        }
+        static bool InGroup(int i, string s) {if (Regex.Match(s, regex_pats[i]).Value == s) return true;return false;}
     }
 
    

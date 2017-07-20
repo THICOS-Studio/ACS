@@ -11,7 +11,8 @@ namespace ACS_Lexer
         Identifier,
         Number,
         String,
-        Float
+        Float,
+        Operator
     }
 
     public abstract class Token
@@ -20,12 +21,13 @@ namespace ACS_Lexer
         public static string EOL = "\\n";
         public Types type;
         public int line_number;
+        public int seq;
 
         public string text;
         public int int_value;
         public float float_value;
 
-        public Token(int line)
+        public Token(int line=0)
         {
             line_number = line;
         }
@@ -69,6 +71,10 @@ namespace ACS_Lexer
                     {
                         return text;
                     }
+                case Types.Operator:
+                    {
+                        return text;
+                    }
             }
             return "";
         }
@@ -78,10 +84,11 @@ namespace ACS_Lexer
     class IdentifierToken : Token
     {
 
-        public IdentifierToken(int line, string id) : base(line)
+        public IdentifierToken(int line, int _id, string id) : base(line)
         {
             type = Types.Identifier;
             text = id;
+            seq = _id;
         }
         public override string GetText()
         {
@@ -91,10 +98,11 @@ namespace ACS_Lexer
     class NumberToken : Token
     {
 
-        public NumberToken(int line, int v) : base(line)
+        public NumberToken(int line,int id, int v) : base(line)
         {
             type = Types.Number;
             int_value = v;
+            seq = id;
         }
         public override int GetNumber()
         {
@@ -104,10 +112,11 @@ namespace ACS_Lexer
     class StringToken : Token
     {
 
-        public StringToken(int line, string str) : base(line)
+        public StringToken(int line, int id, string str) : base(line)
         {
             type = Types.String;
             text = str;
+            seq = id;
         }
         public override string GetText()
         {
@@ -116,14 +125,30 @@ namespace ACS_Lexer
     }
     class FloatToken : Token
     {
-        public FloatToken(int line, float v) : base(line)
+        public FloatToken(int line, int id, float v) : base(line)
         {
             type = Types.Float;
             float_value = v;
+            seq = id;
         }
         public override float GetFloat()
         {
             return float_value;
+        }
+    }
+
+    class OperatorToken : Token
+    {
+        public OperatorToken(int line, int id, string str) : base(line)
+        {
+            type = Types.Operator;
+            text = str;
+            seq = id;
+        }
+
+        public override string GetText()
+        {
+            return text;
         }
     }
     #endregion
