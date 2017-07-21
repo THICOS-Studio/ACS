@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace ACS_Lexer
 {
-    class ASLeaf
+    public class ASLeaf : ASTree
     {
-
+        new ASTree left;
+        new ASTree right;
+        new Token Operator;
+        public Token value;
+        public string name;
     }
 }

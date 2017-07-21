@@ -1,5 +1,12 @@
-﻿c=a+b;
+﻿c=1+2+3*4/5-6666666;
+[aaa]
+b = input();
+a = 1;
+c=a+b;
 print(c);
-a =1;
-b =233;
-2333;
+if(a == 1)
+{
+	a++;
+	print(a);
+	goto aaa;
+}

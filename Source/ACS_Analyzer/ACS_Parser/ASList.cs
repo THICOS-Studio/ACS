@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ACS_Lexer
 {
-    class ASList
+    public class ASList : ASTree
     {
 
     }
