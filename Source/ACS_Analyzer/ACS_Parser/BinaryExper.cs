@@ -73,7 +73,7 @@ namespace ACS_Analyzer.ACS_Parser
 #endregion
         public string Calculate()
         {
-
+            bool debug = false;
             switch (Operator)
             {
                 case "+":
@@ -212,6 +212,7 @@ namespace ACS_Analyzer.ACS_Parser
                         break;
                     }
             }
+            if (debug) Console.WriteLine(value);
             return value;
         }
         public static bool IsNumeric(string value)

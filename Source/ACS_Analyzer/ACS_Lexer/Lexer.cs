@@ -48,8 +48,8 @@ namespace ACS_Lexer
             
             for(int i = 0; i < queue.Count; i++)
             {
-              if (queue[i] != null)
-              Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " +queue[i].seq+ "  [LineNumber]>>     " + queue[i].GetLineNumber());
+                if (queue[i] != null)
+                    Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue());
             }
             return queue;
         }
