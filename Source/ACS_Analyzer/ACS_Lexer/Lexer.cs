@@ -20,12 +20,12 @@ namespace ACS_Lexer
             "([0-9]+[.][0-9]+)",
             "(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")",
             "([A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\|)",//|[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~]
-            "([0-9]+)",
+            "([-]?[0-9]+)",
             "[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~]"
         };
 
         public static string regex_pat =
-            "((//.*)|([0-9]+[.][0-9]+)|([0-9]+)|(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")" + 
+            "((//.*)|([0-9]+[.][0-9]+)|([-]?[0-9]+)|(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")" + 
             "|[A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||[!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~])?";
 
         public static string program;
@@ -44,12 +44,12 @@ namespace ACS_Lexer
             while (ReadLine()) ;
             queue.Add(Token.EOF);
 
-            //Console.WriteLine(queue.Count);
+
             
             for(int i = 0; i < queue.Count; i++)
             {
-                if (queue[i] != null)
-                    Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " +queue[i].seq+ "  [LineNumber]>>     " + queue[i].GetLineNumber());
+              if (queue[i] != null)
+              Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " +queue[i].seq+ "  [LineNumber]>>     " + queue[i].GetLineNumber());
             }
             return queue;
         }
