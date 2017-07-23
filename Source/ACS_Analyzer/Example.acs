@@ -1,12 +1,10000 @@
 ﻿c=1+2+3*4/5-6666666;
-[aaa]
-b = input();
+[aaa];
+input(a);
 a = 1;
 c=a+b;
 print(c);
-if(a == 1)
-{
-	a++;
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
+	print(a);
+	goto aaa;
+}
+c=1+2+3*4/5-6666666;
+[aaa];
+input(a);
+a = 1;
+c=a+b;
+print(c);
+if(a == 1){
 	print(a);
 	goto aaa;
 }
