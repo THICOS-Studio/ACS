@@ -11,7 +11,6 @@ namespace ACS_Analyzer.ACS_Parser
     class BinaryExper:Token
     {
         public string var_name;
-        public BinaryExper top;
         public string Operator="";
         public BinaryExper Left, Right;
         public string value="";

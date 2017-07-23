@@ -45,12 +45,14 @@ namespace ACS_Lexer
             queue.Add(Token.EOF);
 
             //Console.WriteLine(queue.Count);
-            /*
-            for(int i = 0; i < queue.Count; i++)
-            {
-                if (queue[i] != null)
-                    Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue() + "  " +queue[i].seq+ "  [LineNumber]>>     " + queue[i].GetLineNumber());
-            }*/
+
+       /*     for (int i = 0; i < queue.Count; i++)
+           {
+               if (queue[i] != null)
+                  Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue());
+           }*/
+
+
             return queue;
         }
 

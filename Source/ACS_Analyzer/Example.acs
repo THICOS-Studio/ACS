@@ -1,12 +1,2 @@
-﻿c=1+2+3*4/5-6666666;
-[aaa]
-b = input();
-a = 1;
-c=a+b;
-print(c);
-if(a == 1)
-{
-	a++;
-	print(a);
-	goto aaa;
-}
+﻿a=1+2;
+print(a);

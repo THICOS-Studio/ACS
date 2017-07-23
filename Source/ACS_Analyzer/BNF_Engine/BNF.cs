@@ -13,7 +13,7 @@ namespace ACS_Analyzer.BNF_Engine
         {
             List<Token> input = new List<Token>();
             foreach (Token item in _queue)
-            {
+            { 
                 if (item == null) break;
                 if (item.GetValue() == ";")
                 {
