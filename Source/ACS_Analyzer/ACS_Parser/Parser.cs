@@ -17,26 +17,20 @@ namespace ACS_Analyzer.ACS_Parser
         public int now_run_id=0;
         public List<string> var_name = new List<string>();
         public List<string> var_data = new List<string>();
+
         public Parser(List<Token> _q)
         {
             instance = this;
             q = _q;
-        //   for (now_run_id = 0; now_run_id < q.Count-1; )
-        //   {
-        //      Console.WriteLine("（1）>> [ 变量"+q[now_run_id].GetValue()+ "赋值" + GetExper(q[now_run_id]).Calculate() + "]");
-                //Console.WriteLine("L++"+now_run_id);
-         //   }
-            //Console.Read();
         }
+
         public void Start()
         {
             for (now_run_id = 0; now_run_id < q.Count - 1;)
            {
-                //Console.WriteLine("（1）>> [ 变量"+q[now_run_id].GetValue()+ "赋值" +
-                GetExper(q[now_run_id]).Calculate();
-                  //+ "]");
-           
-           }
+                Console.WriteLine(">> [ 变量"+q[now_run_id].GetValue()+ "赋值" + GetExper(q[now_run_id]).Calculate()+ "]");
+                //GetExper(q[now_run_id]).Calculate();
+            }
         }
 
         public string Test()
@@ -46,14 +40,12 @@ namespace ACS_Analyzer.ACS_Parser
 
         public BinaryExper GetExper(Token t)
         {
-          
-
-            bool debug=false;
-            if (t == null)
+            Console.WriteLine("检测到"+t.GetValue());
+            if (t == null) //如果t是空则返回空值
             {
                 return new BinaryExper("");
             }
-
+            #region 保留字段的函数检测
             if (t.GetValue() == "print")
             {
                 if (q[t.seq + 1].GetValue() == "(")
@@ -111,33 +103,45 @@ namespace ACS_Analyzer.ACS_Parser
                     }
                 }
             }
-            // print("检测B" + t.GetValue());
+
+            #endregion
+ 
             if (t.seq < q.Count)
             {
                 if (q[t.seq + 1].GetValue() == ";")
                 {
                     now_run_id = t.seq + 2;
                     BinaryExper e = new BinaryExper(t);
-                    if (debug) Console.WriteLine("A"+e.value);
                     return e;
                 }
             }
             else
             {
                 BinaryExper e = new BinaryExper(t);
-                if (debug) Console.WriteLine("B" + e.value+"  "+t.seq+" "+q.Count+" "+t.GetValue());
                 return new BinaryExper(e);
             }
             BinaryExper now_exper=new BinaryExper();
-          
-          if (t.GetValue() == "(")
+
+            #region 括号
+            if (t.GetValue() == "(")
             {
-                int LP_count = 1;
+                Console.WriteLine("检测到左括号");
+
+                   int LP_count = 1;
                 List<Token> inter_tokens=new List<Token>();
                 inter_tokens.Add(new OperatorToken(0, inter_tokens.Count, "KEEP"));
                 inter_tokens.Add(new OperatorToken(0, inter_tokens.Count, "="));
+
+                Console.WriteLine("分析递归内数据*************************");
+                for (int i = 0; i < q.Count-1; i++)
+                {
+                    Console.Write(q[i].GetValue());
+                }
+                Console.WriteLine();
+                Console.WriteLine("分析递归内数据结束*************************");
                 for (int i = 1;i<q.Count-1; i++)
                 {
+                    Console.WriteLine("括号内循环检测"+"(" +i+"/"+q.Count+")"+":" + q[t.seq + i].GetValue());
                     string v = q[t.seq + i].GetValue();
                     if (v != ")")
                     {
@@ -151,54 +155,76 @@ namespace ACS_Analyzer.ACS_Parser
                     } 
 					else                                            
                     {
-                    LP_count--;
-                     if (LP_count == 0)
+                        LP_count--;
+                        Token nt = q[t.seq + i];
+                        nt.seq = inter_tokens.Count;
+                       
+                        if (LP_count == 0)
                         {
                             break;
                         }
+                        else {
+                            inter_tokens.Add(nt);
+                        }
                     }
                 }
-                inter_tokens.Add(new OperatorToken(0, inter_tokens.Count, ";"));
+                Token nt2 = new OperatorToken(0, inter_tokens.Count,";");nt2.seq = inter_tokens.Count;inter_tokens.Add(nt2);
 
                 BinaryExper vvv = new BinaryExper(GetValueFromTokens(inter_tokens));
+                vvv.Calculate();
+               
                 if (q.Count > (t.seq + inter_tokens.Count + 1))
                 {
                     now_exper.Left = vvv;
-                    //Console.WriteLine((t.seq + inter_tokens.Count + 1) + "---" + q.Count);
-                    now_exper.Operator = q[t.seq + inter_tokens.Count + 1].GetValue();
-                    now_exper.Right = GetExper(q[t.seq + inter_tokens.Count + 2]);
+                    now_exper.Operator = q[t.seq + inter_tokens.Count -1].GetValue();
+                    if (now_exper.Operator == ";")
+                    {
+                        Console.WriteLine("返回异常分支");
+                        now_run_id = t.seq + inter_tokens.Count;
+                        now_exper = vvv;
+                    }
+                    else {
+                        now_exper.Right = GetExper(q[t.seq + inter_tokens.Count]);
+                    }
+                    Console.WriteLine("返回" + now_exper.Calculate());
+                    return now_exper;
                 }
                 else
                 {
+                    Console.WriteLine("返回异常分支");
                     now_exper = vvv;
+                         return now_exper;
                 }
-                return now_exper;
-            }         
+               
+            }
+            #endregion
             now_exper.Left = new BinaryExper(t);
             now_exper.Operator = q[t.seq + 1].GetValue();
             if (now_exper.Operator == "*" | now_exper.Operator == "/" | now_exper.Operator == "%")
             {
-                //乘除优先级
                 now_exper.Right = new BinaryExper(q[t.seq + 2]);
                 if (q[t.seq + 3].GetValue() == ";")
                 {
                     now_run_id = t.seq + 4;
-                    if (debug) Console.WriteLine("C" + now_exper.value);
                     return now_exper;
                 }
                 BinaryExper new_exper = new BinaryExper();
-
                 new_exper.Left = now_exper;
-                new_exper.Operator = q[t.seq + 3].GetValue();
-                new_exper.Right= GetExper(q[t.seq + 4]);
-                if (debug) Console.WriteLine("D" + new_exper.value);
+                if (q[t.seq + 2].GetValue() == "(")
+                {
+                    new_exper.Operator = q[t.seq + 1].GetValue();
+                    new_exper.Right = GetExper(q[t.seq + 2]);
+                }
+                else {
+                 
+                    new_exper.Operator = q[t.seq + 3].GetValue();
+                    new_exper.Right = GetExper(q[t.seq + 4]);
+                }
                 return new_exper;
             }
             else
             {
-                //非乘除
                 now_exper.Right = GetExper(q[t.seq + 2]);
-                if (debug) Console.WriteLine("E" + now_exper.value);
                 return now_exper;
             }
             //递归走起
@@ -210,6 +236,7 @@ namespace ACS_Analyzer.ACS_Parser
             if (!var_name.Contains(s)) return "ERROR";
            return var_data[var_name.IndexOf(s)];
         }
+
         public void SetVar(string name,string value)
         {
             if (var_name.Contains(name))
@@ -224,29 +251,14 @@ namespace ACS_Analyzer.ACS_Parser
         }
 
 
-
-
-
-
-        //下面的函数想要做一个小方法能获取 某token集合的值//但是失败了，如果可以成功的话括号就能做出来了
-        //下面是重新调用GetExper函数，导致很多错误，重写可能负责
-
-        int child_run_id=0;
         public string GetValueFromTokens(List<Token> t)
         {
                 Parser p = new Parser(t);
                  string result = p.Test();
                 instance = this;
                  return result;
-
-           // return GetExper2(t[0], t).Calculate();
         }
    
     }
-
-
-
-
-
-    }
+}
 

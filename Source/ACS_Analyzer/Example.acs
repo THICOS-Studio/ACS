@@ -1,2 +1,2 @@
-﻿a=1+2;
-print(a);
+﻿KEEP2=2*2+5;
+print(KEEP2);
