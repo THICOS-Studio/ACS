@@ -129,6 +129,7 @@ namespace ACS_Lexer
         {
             type = Types.Float;
             float_value = v;
+           
             seq = id;
         }
         public override float GetFloat()

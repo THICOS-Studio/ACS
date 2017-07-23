@@ -42,22 +42,24 @@ namespace ACS_Analyzer.ACS_Parser
             else if(t.type==Types.Identifier)
             {
                 string name = t.GetValue();
-                if (Parser.instance.var_name.Contains(name))
+                if (VariableList.instance.var_name.Contains(name))
                 {
                     var_name = name;
-                    value = Parser.instance.var_data[Parser.instance.var_name.IndexOf(name)];
+                    value = VariableList.instance.var_data[VariableList.instance.var_name.IndexOf(name)];
                 }
                 else
                 {
                     var_name = name;
-                    Parser.instance.var_name.Add(name);
-                    Parser.instance.var_data.Add("");
+                    VariableList.instance.var_name.Add(name);
+                    VariableList.instance.var_data.Add("");
                     value = "";
                 }
             }
+
             else
             {
-                value = "";
+                value = t.GetValue();
+                //value = "";
             }
            //  = t.GetValue();
         }
@@ -72,7 +74,18 @@ namespace ACS_Analyzer.ACS_Parser
 #endregion
         public string Calculate()
         {
-            bool debug = false;
+            if (Left != null)
+            {
+                Left.Calculate();
+            }
+            else
+            {
+
+            }
+            if (Right != null)
+            {
+                Right.Calculate();
+            }
             switch (Operator)
             {
                 case "+":
@@ -81,10 +94,6 @@ namespace ACS_Analyzer.ACS_Parser
                         {
                             if(IsNumeric(Right.value))
                             {
-                                Left.Calculate();
-                                Right.Calculate();
-                                if (Left.value == "") Left.value = "0";
-                                if (Right.value == "") Right.value = "0";
                                 value = (float.Parse(Left.value) + float.Parse(Right.value)).ToString();
                             }
                             else
@@ -98,16 +107,86 @@ namespace ACS_Analyzer.ACS_Parser
                         }
                         break;
                     }
+                case "==":
+                    {
+                        if (Left.value == Right.value)
+                        {
+                            value = "true";
+                        }
+                        else
+                        {
+                            value = "false";
+                        }
+                        break;
+                    }
+                case ">=":
+                    {
+                        if (IsNumeric(Left.value))
+                        {
+                            if (IsNumeric(Right.value))
+                            {
+                                if (Left.value == "") Left.value = "0";
+                                if (Right.value == "") Right.value = "0";
+                                value = (float.Parse(Left.value) >= float.Parse(Right.value)) ? "true" : "false";
+                                break;
+                            }
+                        }
+                       value = Left.value + Right.value;
+                        break;
+                    }
+                case "<=":
+                    {
+                        if (IsNumeric(Left.value))
+                        {
+                            if (IsNumeric(Right.value))
+                            {
+                                if (Left.value == "") Left.value = "0";
+                                if (Right.value == "") Right.value = "0";
+                                value = (float.Parse(Left.value) <= float.Parse(Right.value)) ? "true" : "false";
+                                break;
+                            }
+                        }
+                        value = Left.value + Right.value;
+                        break;
+                    }
+                case "<":
+                    {
+                        if (IsNumeric(Left.value))
+                        {
+                            if (IsNumeric(Right.value))
+                            {
+                                if (Left.value == "") Left.value = "0";
+                                if (Right.value == "") Right.value = "0";
+                                value = (float.Parse(Left.value) < float.Parse(Right.value)) ? "true" : "false";
+                                break;
+                            }
+                        }
+                        value = Left.value + Right.value;
+                        break;
+                    }
+                case ">":
+                    {
+                        if (IsNumeric(Left.value))
+                        {
+                            if (IsNumeric(Right.value))
+                            {
+                                if (Left.value == "") Left.value = "0";
+                                if (Right.value == "") Right.value = "0";
+                                value = (float.Parse(Left.value) > float.Parse(Right.value)) ? "true" : "false";
+                                break;
+                            }
+                        }
+                        value = Left.value + Right.value;
+                        break;
+                    }
                 case "*":
                     {
                         if (IsNumeric(Left.value))
                         {
                             if (IsNumeric(Right.value))
                             {
-                                Left.Calculate();
-                                Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
-                                if (Right.value == "") Right.value = "0";
+                                if (Right.value == "")Right.value = "0"; 
                                 
                                 value = (float.Parse(Left.value) * float.Parse(Right.value)).ToString();
                             }
@@ -128,8 +207,6 @@ namespace ACS_Analyzer.ACS_Parser
                         {
                             if (IsNumeric(Right.value))
                             {
-                                Left.Calculate();
-                                Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
                                 value = (float.Parse(Left.value) % float.Parse(Right.value)).ToString();
@@ -151,9 +228,6 @@ namespace ACS_Analyzer.ACS_Parser
                         {
                             if (IsNumeric(Right.value))
                             {
-
-                                Left.Calculate();
-                                Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
                                 value = (float.Parse(Left.value) / float.Parse(Right.value)).ToString();
@@ -175,9 +249,6 @@ namespace ACS_Analyzer.ACS_Parser
                         {
                             if (IsNumeric(Right.value))
                             {
-
-                                Left.Calculate();
-                                Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
                                 value = (float.Parse(Left.value) - float.Parse(Right.value)).ToString();
@@ -195,24 +266,24 @@ namespace ACS_Analyzer.ACS_Parser
                     }
                 case "=":
                     {
-                        value = Left.value = Right.Calculate();
+                        value = Left.value = Right.value;
                         if (Left.var_name != null)
                         {
-                            if (Parser.instance.var_name.Contains(Left.var_name))
+                            if (VariableList.instance.var_name.Contains(Left.var_name))
                             {
-                                Parser.instance.var_data[Parser.instance.var_name.IndexOf(Left.var_name)] = value;
+                                VariableList.instance.var_data[VariableList.instance.var_name.IndexOf(Left.var_name)] = value;
                             }
                         }
                         break;
                     }
                 case "":
                     {
+                        
                         if(Left!=null)
-                        value = Left.Calculate();
+                        value = Left.value;
                         break;
                     }
             }
-            if (debug) Console.WriteLine(value);
             return value;
         }
         public static bool IsNumeric(string value)

@@ -46,12 +46,12 @@ namespace ACS_Lexer
 
             //Console.WriteLine(queue.Count);
 
-            for (int i = 0; i < queue.Count; i++)
-           {
-               if (queue[i] != null)
-                  Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue());
-           }
-            Console.Read();
+            //for (int i = 0; i < queue.Count; i++)
+            //{
+            //    if (queue[i] != null)
+            //        Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue());
+            //}
+            //Console.Read();
 
 
             return queue;
