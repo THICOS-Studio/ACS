@@ -43,9 +43,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACS_Lexer\Lexer.cs" />
-    <Compile Include="ACS_Parser\ASLeaf.cs" />
-    <Compile Include="ACS_Parser\ASList.cs" />
-    <Compile Include="ACS_Parser\ASTree.cs" />
     <Compile Include="ACS_Parser\BinaryExper.cs" />
     <Compile Include="ACS_Parser\Parser.cs" />
     <Compile Include="ACS_Parser\VariableList.cs" />
@@ -56,7 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Example.acs">
+    <None Include="Script.acs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

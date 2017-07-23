@@ -371,8 +371,6 @@ namespace ACS_Analyzer.ACS_Parser
                 List<Token> inter_tokens = new List<Token>();
                 inter_tokens.Add(new OperatorToken(0, inter_tokens.Count, "KEEP"));
                 inter_tokens.Add(new OperatorToken(0, inter_tokens.Count, "="));
-
-
                 for (int i = 1; i < q.Count - 1; i++)
                 {
                     string v = q[t.seq + i].GetValue();
@@ -403,13 +401,18 @@ namespace ACS_Analyzer.ACS_Parser
                 }
                 Token nt2 = new OperatorToken(0, inter_tokens.Count, ";"); nt2.seq = inter_tokens.Count; inter_tokens.Add(nt2);
 
-                BinaryExper vvv = new BinaryExper(GetValueFromTokens(inter_tokens));
-                vvv.Calculate();
+            //    BinaryExper vvv = new BinaryExper(GetValueFromTokens(inter_tokens));
+            //    vvv.Calculate();
+
+            Parser p = new Parser(inter_tokens);p.Start();
+            BinaryExper vvv = new BinaryExper();
 
                 number = inter_tokens.Count - 3;
                 now_exper = vvv;
                 return now_exper;
         }
+
+
     }
 }
 

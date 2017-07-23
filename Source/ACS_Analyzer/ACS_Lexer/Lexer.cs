@@ -38,7 +38,7 @@ namespace ACS_Lexer
         public static List<Token> _Main()
         {
             //后面变成从外
-            file_stream = new FileStream(Environment.CurrentDirectory + "/Example.acs", FileMode.Open);
+            file_stream = new FileStream(Environment.CurrentDirectory + "/Script.acs", FileMode.Open);
             stream_reader = new StreamReader(file_stream);
 
             while (ReadLine()) ;
@@ -52,7 +52,6 @@ namespace ACS_Lexer
             //        Console.WriteLine("[" + queue[i].type + "]>>     " + queue[i].GetValue());
             //}
             //Console.Read();
-
 
             return queue;
         }
