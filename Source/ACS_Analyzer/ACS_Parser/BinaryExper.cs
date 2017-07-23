@@ -85,7 +85,7 @@ namespace ACS_Analyzer.ACS_Parser
                                 Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
-                                value = (int.Parse(Left.value) + int.Parse(Right.value)).ToString();
+                                value = (float.Parse(Left.value) + float.Parse(Right.value)).ToString();
                             }
                             else
                             {
@@ -108,7 +108,8 @@ namespace ACS_Analyzer.ACS_Parser
                                 Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
-                                value = (int.Parse(Left.value) * int.Parse(Right.value)).ToString();
+                                
+                                value = (float.Parse(Left.value) * float.Parse(Right.value)).ToString();
                             }
                             else
                             {
@@ -131,7 +132,7 @@ namespace ACS_Analyzer.ACS_Parser
                                 Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
-                                value = (int.Parse(Left.value) % int.Parse(Right.value)).ToString();
+                                value = (float.Parse(Left.value) % float.Parse(Right.value)).ToString();
                             }
                             else
                             {
@@ -155,7 +156,7 @@ namespace ACS_Analyzer.ACS_Parser
                                 Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
-                                value = (int.Parse(Left.value) / int.Parse(Right.value)).ToString();
+                                value = (float.Parse(Left.value) / float.Parse(Right.value)).ToString();
                             }
                             else
                             {
@@ -179,7 +180,7 @@ namespace ACS_Analyzer.ACS_Parser
                                 Right.Calculate();
                                 if (Left.value == "") Left.value = "0";
                                 if (Right.value == "") Right.value = "0";
-                                value = (int.Parse(Left.value) - int.Parse(Right.value)).ToString();
+                                value = (float.Parse(Left.value) - float.Parse(Right.value)).ToString();
                             }
                             else
                             {
