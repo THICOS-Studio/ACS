@@ -14,7 +14,7 @@ namespace ACS_Analyzer.BNF_Engine
             List<Token> input = new List<Token>();
             //这里是把语句一句一句扔给匹配的
             foreach (Token item in _queue)
-            {
+            { 
                 if (item == null) break;
                 if (item.GetValue() == ";")
                 {

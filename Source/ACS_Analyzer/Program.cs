@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ACS_Analyzer.BNF_Engine;
-using ACS_Lexer;
 
 namespace ACS_Analyzer
 {
@@ -14,17 +13,16 @@ namespace ACS_Analyzer
         {
             System.Diagnostics.Stopwatch watch = new System.Diagnostics.Stopwatch();
             watch.Start();  //开始监视代码运行时间
-            //ACS_Parser.Parser p=new ACS_Parser.Parser(ACS_Lexer.Lexer._Main());
-            List<Token> queue = Lexer._Main();
-            TimeSpan timespan = watch.Elapsed;
-            Console.WriteLine("执行时间：{0}(毫秒)", timespan.TotalMilliseconds);
-            watch = new System.Diagnostics.Stopwatch();
-            watch.Start();  //开始监视代码运行时间
-            BNF.Match(queue);
+
+            Console.WriteLine("****************下面是程序内容******************");
+            ACS_Parser.Parser p=new ACS_Parser.Parser(ACS_Lexer.Lexer._Main());
+            p.Start();
+            Console.WriteLine("*****************程序内容结束*******************");
+            //   BNF.Match(ACS_Lexer.Lexer._Main());
             watch.Stop();
-            timespan = watch.Elapsed;
-            Console.WriteLine("执行时间：{0}(毫秒)", timespan.TotalMilliseconds);
-            Console.ReadKey();
+             TimeSpan timespan = watch.Elapsed;
+              Console.WriteLine("执行时间：{0}(毫秒)", timespan.TotalMilliseconds);
+                Console.ReadKey();
 
         }
     }
