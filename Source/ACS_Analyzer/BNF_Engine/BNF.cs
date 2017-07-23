@@ -47,8 +47,11 @@ namespace ACS_Analyzer.BNF_Engine
             Parser parser = new Parser(_input);
 
             #region 匹配
-            parser = parser.rule("if").rule("(").or(Types.Identifier).or(Types.Float).or(Types.Number).or(Types.String).rule("==")
-                .or(Types.Identifier).or(Types.Float).or(Types.Number).or(Types.String).rule(")").rule("{");
+            parser = parser.rule("if").rule("(").or(Types.Identifier).or(Types.Float).or(Types.Number).or(Types.String);
+            parser.is_or_matched = false;
+            parser = parser.or("==").or("<=").or(">=");
+            parser.is_or_matched = false;
+            parser = parser.or(Types.Identifier).or(Types.Float).or(Types.Number).or(Types.String).rule(")").rule("{");
             if (parser.is_matched) return;
             parser = new Parser(_input);
             parser = parser.rule("}");
@@ -98,7 +101,7 @@ namespace ACS_Analyzer.BNF_Engine
 
         Parser parser;
         public bool is_matched = true; //表示整个语句是否匹配成功
-        bool is_or_matched; //表示or语句是否匹配成功
+        public bool is_or_matched; //表示or语句是否匹配成功
         bool is_region_matched = true;
         
         public Parser(List<Token> _queue)
