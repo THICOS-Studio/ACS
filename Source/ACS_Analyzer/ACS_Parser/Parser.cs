@@ -82,7 +82,7 @@ namespace ACS_Analyzer.ACS_Parser
                 {
                     int tokenDis2;
                     GetFieldResult(q[t.seq + TokenDis + 3],out tokenDis2);
-                    now_run_id = t.seq + TokenDis + 3+ tokenDis2 + 3;
+                    now_run_id = t.seq + TokenDis + 3+ tokenDis2 + 2;
                     //Console.WriteLine("TRUE>>>" + q[now_run_id].GetValue());
                     return new BinaryExper("");
                 }
@@ -110,7 +110,7 @@ namespace ACS_Analyzer.ACS_Parser
                         }
 
                     }
-                    now_run_id = t.seq + TokenDis + 4+tokenDis+1;
+                    now_run_id = t.seq + TokenDis + 4+tokenDis;
                  // Console.WriteLine("FASLE>>>"+q[now_run_id-2].GetValue() + q[now_run_id-1].GetValue() + q[now_run_id].GetValue() + q[now_run_id+1].GetValue() );
                     return new BinaryExper("");
                 }
