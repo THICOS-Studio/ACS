@@ -43,9 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACS_Lexer\Lexer.cs" />
-    <Compile Include="ACS_Parser\BinaryExper.cs" />
     <Compile Include="ACS_Parser\Parser.cs" />
-    <Compile Include="ACS_Parser\VariableList.cs" />
     <Compile Include="BNF_Engine\BNF.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
